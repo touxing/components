@@ -1,1 +1,1 @@
-export default from './upload.vue'
+export * from './upload.vue'
